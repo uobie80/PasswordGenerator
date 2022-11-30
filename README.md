@@ -35,5 +35,5 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Link to password generator site
 
-Please refer to the following link to access the password generator site.  [Password Generator Website](https://uobie80.github.io/project-challenge-02/) 
+Please refer to the following link to access the password generator site.  [Password Generator Website](https://uobie80.github.io/PasswordGenerator/) 
 
